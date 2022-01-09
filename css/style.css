@@ -1,0 +1,38 @@
+.container-fluid
+{
+    border: 0px solid red;
+}
+
+.container{
+    border: 0px solid black;
+}
+.header, .nav
+{
+    display: flex;
+}
+.h1{
+    margin-left: 10px;
+}
+
+.nav{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.nav li a{
+    padding: 10px;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+.span1{
+    color: rgb(226, 77, 19);
+}
+.span2{
+    color: rgb(123, 248, 7);
+}
+.span3{
+    color: rgb(240, 170, 9);
+}
+.header{
+    background-color: rgb(46, 44, 40);
+    border-radius: 10px;
+}
